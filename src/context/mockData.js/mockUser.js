@@ -1,0 +1,38 @@
+export default {
+  login: 'Felix-Josephraj',
+  id: 42133389,
+  node_id: 'MDQ6VXNlcjQyMTMzMzg5',
+  avatar_url: 'https://avatars3.githubusercontent.com/u/42133389?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/Felix-Josephraj',
+  html_url: 'https://github.com/Felix-Josephraj',
+  followers_url: 'https://api.github.com/users/Felix-Josephraj/followers',
+  following_url:
+    'https://api.github.com/users/Felix-Josephraj/following{/other_user}',
+  gists_url: 'https://api.github.com/users/Felix-Josephraj/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/Felix-Josephraj/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/Felix-Josephraj/subscriptions',
+  organizations_url: 'https://api.github.com/users/Felix-Josephraj/orgs',
+  repos_url: 'https://api.github.com/users/Felix-Josephraj/repos',
+  events_url: 'https://api.github.com/users/Felix-Josephraj/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/Felix-Josephraj/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Felix J',
+  company: 'Coding Addict',
+  blog: 'www.felix.com',
+  location: 'India',
+  email: null,
+  hireable: null,
+  bio: 'Creator of Coding Addict',
+  twitter_username: 'felix_josephraj',
+  public_repos: 152,
+  public_gists: 0,
+  followers: 1495,
+  following: 0,
+  created_at: '2018-08-06T06:48:23Z',
+  updated_at: '2020-07-08T05:01:32Z',
+}
